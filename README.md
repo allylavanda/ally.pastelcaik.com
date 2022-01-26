@@ -26,6 +26,6 @@ Waystones
 
 ### How to Play
 
-1. Download the CurseForge Minecraft pack here.
+1. Download the CurseForge Minecraft pack here. https://github.com/sjaeledyr/ally.pastelcaik.com/files/7942937/Ally.s.Modpack-1.1.zip
 2. Create a new custom profile in curseforge.
 3. Click the import at the top of the pop-up window, and import the modpack.
