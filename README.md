@@ -1,6 +1,6 @@
 ## Ally's Modded Minecraft Server
 
-###ally.pastelcaik.com, ver1.18.1
+### ally.pastelcaik.com, ver1.18.1
 
 ### Installed Mods
 
