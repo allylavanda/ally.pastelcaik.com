@@ -21,6 +21,7 @@ MrCrayfish's Furniture
 Sophisticated Backpacks
 Tetra
 Waystones
+Inventory-Sorter
 ```
 
 
