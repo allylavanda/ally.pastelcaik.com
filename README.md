@@ -32,7 +32,7 @@ Inventory-Sorter
 3. Click the import at the top of the pop-up window, and import the modpack.
 
 
-## How to Play (MultiMC)
+### How to Play (MultiMC)
 
 1. Download the Minecraft modpack pack here. [Ally's Modpack-1.2.zip](https://github.com/sjaeledyr/ally.pastelcaik.com/files/7959520/Ally.s.Modpack-1.2.zip)
 2. Drag the zip into MultiMC
