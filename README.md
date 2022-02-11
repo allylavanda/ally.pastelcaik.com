@@ -25,8 +25,15 @@ Inventory-Sorter
 ```
 
 
-### How to Play
+### How to Play (CurseForge)
 
-1. Download the CurseForge Minecraft pack here. [Ally's Modpack-1.2.zip](https://github.com/sjaeledyr/ally.pastelcaik.com/files/7959520/Ally.s.Modpack-1.2.zip)
+1. Download the Minecraft modpack pack here. [Ally's Modpack-1.2.zip](https://github.com/sjaeledyr/ally.pastelcaik.com/files/7959520/Ally.s.Modpack-1.2.zip)
 2. Create a new custom profile in curseforge.
 3. Click the import at the top of the pop-up window, and import the modpack.
+
+
+## How to Play (MultiMC)
+
+1. Download the Minecraft modpack pack here. [Ally's Modpack-1.2.zip](https://github.com/sjaeledyr/ally.pastelcaik.com/files/7959520/Ally.s.Modpack-1.2.zip)
+2. Drag the zip into MultiMC
+3. Make sure to go to right click and go to Edit Instance>Settings , to set your allocated RAM.
