@@ -1,0 +1,21 @@
+body {
+  font-family: "OCR A Std", monospace ;
+  background-color: #1A1A1A;
+  color: #B5E853;
+.title_bar {
+  background-color: #030303 ;
+  color: #B5E853;
+  border-radius: 30px;
+  text-align: center;
+  padding: 20px;
+}
+
+ul {
+  background-color: #030303;
+  border-radius: 20px;
+  padding: 30px;
+}
+
+a {
+  color: #219E3B;
+}
